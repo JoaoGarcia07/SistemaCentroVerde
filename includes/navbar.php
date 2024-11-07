@@ -1,6 +1,6 @@
 <div class="navbar">
     <div class="navbar-logo">
-        <img src="" alt="">
+        <img src="assets/img/CentroVerde2.png">
     </div>
     <div class="links-navbar">
         <ul>

@@ -1,49 +1,39 @@
-<?php
-$title = "HOME";
-include_once "header.php";
-?>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centro Verde</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+    <!-- Navbar -->
+    <header class="navbar">
+        <div class="logo">Centro Verde</div>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Parques</a></li>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Sugestão</a></li>
+            </ul>
+        </nav>
+        <div class="menu-icon">☰</div>
+    </header>
 
-<div class="main">
-    <div class="home">
-        <div class="home-content">
-            <div class="home-text">
-                <h1>Centro Verde</h1>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic .</p>
-                <button>Ver Mais</button>
-            </div>
-            <div class="home-img">
-                <img src="" alt="">
+    <!-- Section "Sobre Nós" -->
+    <section class="about-section">
+        <div class="about-content">
+            <img src="https://via.placeholder.com/150" alt="Grupo de Pessoas" class="about-image">
+            <div class="about-text">
+                <h2>Sobre Nós</h2>
+                <p>Lorem Ipsum é um texto padrão em latim usado em design gráfico e editoração. Ele serve para preencher espaços de texto em layouts, permitindo aos designers focar na aparência visual sem serem distraídos pelo conteúdo. Sua origem remonta a um texto de Cícero, datado de 45 a.C.</p>
             </div>
         </div>
-    </div>
-    <hr>
-    <div class="home-parques">
-        <div class="home-parques-content">
-            <h2>Busca por Parques populares</h2>
-            <?php
-            include_once "parque.php";
-            ?>
-        </div>
-    </div>
-    <hr>
-    <div class="home-sobre">
-        <div class="home-sobre-content">
-            <?php
-            include_once "sobre.php";
-            ?>
-        </div>
-    </div>
-    <hr>
-    <div class="home-sugestao">
-        <div class="home-sugestao-content">
-            <h2>Sugestões</h2>
-            <?php
-            include_once "sugestao.php";
-            ?>
-        </div>
-    </div>
-</div>
+    </section>
+    
 
-<?php
-include_once "footer.php";
-?>
+    <!-- Footer -->
+        </div>
+</body>
+</html>

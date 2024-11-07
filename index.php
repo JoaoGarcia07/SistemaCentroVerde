@@ -38,12 +38,12 @@ include_once "header.php";
         <div class="home-sugestao-content">
             <h2>Sugestões</h2>
             <?php
-            include_once "sugestao.php";
+            include "includes/sugestao.php";
             ?>
         </div>
     </div>
 </div>
 
 <?php
-include_once "footer.php";
+include "includes/footer.php";
 ?>

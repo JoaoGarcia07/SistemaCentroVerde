@@ -8,7 +8,7 @@
 
 .sugestao-content {
   width: 70%;
-  height: 700px;
+  height: 750px;
   border-radius: 25px;
   background-color: #278844;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
@@ -45,6 +45,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
 }
 
 .sugestao-form h1 {

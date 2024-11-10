@@ -147,4 +147,180 @@ body {
 .footer-bottom {
   font-size: 12px;
   margin-top: 20px;
+}
+
+.container-footer {
+  width: 100%;
+  height: 450px;
+  background-color: #0B2349;
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.container-footer hr {
+  width: 90%;
+}
+
+.footer-logo {
+  margin-left: 5%;
+  width: 95%;
+  height: 20%;
+  display: flex;
+  justify-content: start;
+  align-items: start;
+}
+.footer-logo img {
+  width: 350px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.footer-content {
+  margin-top: 20px;
+  width: 80%;
+  height: 60%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+}
+.footer-content div {
+  width: 25%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+.footer-content div a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 300;
+  transition: all 0.3s;
+}
+.footer-content div a:hover {
+  transition: all 0.3s;
+  font-size: 22px;
+  font-weight: 600;
+  color: #44EE77;
+}
+.footer-content .nations {
+  width: 200px;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #c9c9c9;
+  border-radius: 15px;
+}
+.footer-content .nations h1 {
+  font-size: 16px;
+  color: #fff;
+  font-weight: 300;
+  margin-left: 15px;
+}
+.footer-content .links-rede {
+  width: 25%;
+  height: 35%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.footer-content .links-rede h1 {
+  font-size: 20px;
+  color: #fff;
+  font-weight: 400;
+}
+.footer-content .links-rede .rede-logo {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+  flex-direction: row;
+}
+.footer-content .links-rede .rede-logo #instagram {
+  color: #C13584;
+  transition: all 0.5s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.footer-content .links-rede .rede-logo #instagram:hover {
+  color: #fff;
+  transition: all 0.5s;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background: linear-gradient(#405DE6, #C13584, #FCAF45);
+}
+.footer-content .links-rede .rede-logo #whatsapp {
+  color: #25d366;
+  transition: all 0.5s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.footer-content .links-rede .rede-logo #whatsapp:hover {
+  color: #fff;
+  transition: all 0.5s;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background: #25d366;
+}
+.footer-content .links-rede .rede-logo #facebook {
+  color: #3b5998;
+  transition: all 0.5s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.footer-content .links-rede .rede-logo #facebook:hover {
+  color: #fff;
+  transition: all 0.5s;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background: #3b5998;
+}
+.footer-content .links-rede .rede-logo #twitter {
+  color: #1DA1F2;
+  transition: all 0.5s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.footer-content .links-rede .rede-logo #twitter:hover {
+  color: #fff;
+  transition: all 0.5s;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background: #1DA1F2;
+}
+
+.footer-direitos {
+  width: 100%;
+  height: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.footer-direitos h1 {
+  font-size: 22px;
+  color: #fff;
+  font-weight: 400;
 }/*# sourceMappingURL=styles.css.map */

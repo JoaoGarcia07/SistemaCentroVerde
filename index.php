@@ -1,34 +1,34 @@
 <?php
 $title = "HOME";
-include "includes/header.php"
+include "includes/header.php";
 ?>
-<!-- Navbar -->
 
-    <header class="navbar">
-        <div class="logo">Centro Verde</div>
-        <nav>
-            <ul class="nav-links">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Parques</a></li>
-                <li><a href="#">Sobre</a></li>
-                <li><a href="#">Sugestão</a></li>
-            </ul>
-        </nav>
-        <div class="menu-icon">☰</div>
-    </header>
+<?php
+include "includes/navbar.php";
+?>
 
-    <!-- Section "Sobre Nós" -->
-    <section class="about-section">
-        <div class="about-container">
-            <div class="about-content">
-                <img src="https://via.placeholder.com/150" alt="Grupo de Pessoas" class="about-image">
-                <div class="about-text">
-                    <h2>Sobre Nós</h2>
-                    <p>Lorem Ipsum é um texto padrão em latim usado em design gráfico e editoração. Ele serve para preencher espaços de texto em layouts, permitindo aos designers focar na aparência visual sem serem distraídos pelo conteúdo. Sua origem remonta a um texto de Cícero, datado de 45 a.C.</p>
-                </div>
+<section class="home">
+    <div class="home-content">
+        <div class="home-text">
+            <div class="text-content">
+                <h1>Centro <span style="color: #278844;">Verde</span></h1>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic .</p>
+                <button>Ver mais</button>
             </div>
-        </div>       
+        </div>
+        <div class="home-img">
+            <div class="img-content">
+                <img src="assets/img/imagemInicial.png">
+            </div>
+        </div>
+
+    </div>
 </section>
+
+<?php
+include "includes/sobre.php";
+?>
+
 <?php
     include "includes/footer.php";
 ?>

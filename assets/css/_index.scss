@@ -89,3 +89,17 @@
         object-fit: cover
     }
 }
+
+.title-parques-index{
+    margin-top: 20px;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    margin-left: 50px;
+    h1{
+        font-size: 20px;
+        font-weight: 500;
+        color: #000;
+        text-decoration: underline;
+    }
+}

@@ -21,12 +21,19 @@ include "includes/navbar.php";
                 <img src="assets/img/imagemInicial.png">
             </div>
         </div>
-
     </div>
 </section>
 
 <?php
 include "includes/sobre.php";
+?>
+
+
+<div class="title-parques-index">
+    <h1>Busca por Parques Populares</h1>
+</div>
+<?php
+include "includes/parques.php";
 ?>
 
 <?php

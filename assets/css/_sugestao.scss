@@ -8,7 +8,7 @@
 
 .sugestao-content{
     width: 70%;
-    height: 750px;
+    height: 800px;
     border-radius: 25px;
     background-color: #278844;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
@@ -48,6 +48,14 @@
     flex-direction: column;
 }
 
+.sugestao-form form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
 .sugestao-form h1{
     font-size: 20px;
     color: #fff;
@@ -73,4 +81,47 @@
     border-radius: 25px;
     font-size: 16px;
     resize: none;
+}
+
+.sugestao-form form .btn-enviar{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.sugestao-form form .btn-enviar button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    padding: 10px;
+    background: #fff;
+    color: #007e26;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+    border: none;
+    outline: none;
+    border-radius: 25px;
+    font-size: 18px;
+    font-weight: 500;
+    transition: all 0.3s;
+}
+
+.sugestao-form form .btn-enviar button:hover{
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.65);
+    transform: scale(1.05);
+    transition: all 0.3s;
+    background: #00d640;
+    color: #fff;
+}
+
+.title-sugestao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    h1{
+        text-transform: uppercase;
+        color: #278844;
+        font-size: 30px;
+        font-weight: 600;
+        margin-bottom: 30px;
+    }
 }

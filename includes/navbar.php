@@ -6,8 +6,8 @@
         <div class="navbar-links">
             <a href="index.php">Home</a>
             <a href="pagParque.php">Parques</a>
-            <a href="#">Sobre</a>
-            <a href="#">Sugestão</a>
+            <a href="pagSobre.php">Sobre</a>
+            <a href="pagSugestao.php">Sugestão</a>
         </div>
     </div>
 </div>

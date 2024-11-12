@@ -45,3 +45,14 @@
     font-size: 16px;
     line-height: 1.6;
 }
+.title-sobre{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    h1{
+        text-transform: uppercase;
+        color: #278844;
+        font-size: 30px;
+        font-weight: 600;
+    }
+}

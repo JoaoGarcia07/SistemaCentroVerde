@@ -11,22 +11,18 @@ include "includes/header.php";
             </div>
             <div class="sugestao-form">
                 <div class="form-logo"><img src="assets/img/logoCentroVerdeBranco.png"></div>
-                <form action="">
+                <form>
                     <h1>Nome:</h1>
-                    <input type="text" id="nome" name="nome" placeholder="Digite seu nome..." required>
+                    <input type="text" id="name" name="name" placeholder="Digite seu nome..." required>
                     <h1>Cidade:</h1>
                     <input type="text" id="cidade" name="cidade" placeholder="Digite sua cidade..." required>
                     <h1>Estado:</h1>
                     <input type="text" id="estado" name="estado" placeholder="Digite seu estado..." required>
                     <h1>Mensagem:</h1>
                     <textarea name="message" id="message" placeholder="Digite sua sugestão..." required></textarea>
-                    
+                    <div class="btn-enviar"><button type="submit">Enviar</button></div>
                 </form>
             </div>
         </div>
     </div>
 </div>
-
-<?php
-include "includes/footer.php";
-?>

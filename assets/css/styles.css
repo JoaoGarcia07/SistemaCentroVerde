@@ -177,6 +177,7 @@ h1 {
 .text-content h1 {
   font-size: 56px;
   font-weight: 700;
+  z-index: 1;
 }
 .text-content p {
   font-size: 22px;
@@ -197,6 +198,7 @@ h1 {
   color: #000;
   font-size: 20px;
   transition: all 0.3s;
+  z-index: 1;
 }
 .text-content button:hover {
   transition: all 0.3s;
@@ -558,6 +560,70 @@ h1 {
 }
 
 .toast .toast-container .toast-content #slide8:checked ~ .s1 {
+  margin-left: -60%;
+}
+
+.toast .toast-container .toast-content #slide9:checked ~ .s1 {
+  margin-left: 0;
+}
+
+.toast .toast-container .toast-content #slide10:checked ~ .s1 {
+  margin-left: -20%;
+}
+
+.toast .toast-container .toast-content #slide11:checked ~ .s1 {
+  margin-left: -40%;
+}
+
+.toast .toast-container .toast-content #slide12:checked ~ .s1 {
+  margin-left: -60%;
+}
+
+.toast .toast-container .toast-content #slide13:checked ~ .s1 {
+  margin-left: 0;
+}
+
+.toast .toast-container .toast-content #slide14:checked ~ .s1 {
+  margin-left: -20%;
+}
+
+.toast .toast-container .toast-content #slide15:checked ~ .s1 {
+  margin-left: -40%;
+}
+
+.toast .toast-container .toast-content #slide16:checked ~ .s1 {
+  margin-left: -60%;
+}
+
+.toast .toast-container .toast-content #slide17:checked ~ .s1 {
+  margin-left: 0;
+}
+
+.toast .toast-container .toast-content #slide18:checked ~ .s1 {
+  margin-left: -20%;
+}
+
+.toast .toast-container .toast-content #slide19:checked ~ .s1 {
+  margin-left: -40%;
+}
+
+.toast .toast-container .toast-content #slide20:checked ~ .s1 {
+  margin-left: -60%;
+}
+
+.toast .toast-container .toast-content #slide21:checked ~ .s1 {
+  margin-left: 0;
+}
+
+.toast .toast-container .toast-content #slide22:checked ~ .s1 {
+  margin-left: -20%;
+}
+
+.toast .toast-container .toast-content #slide23:checked ~ .s1 {
+  margin-left: -40%;
+}
+
+.toast .toast-container .toast-content #slide24:checked ~ .s1 {
   margin-left: -60%;
 }
 

@@ -1,4 +1,3 @@
-<!-- Página de PARQUES -->
 
 <section class="parques">
     <div class="parques-content">
@@ -111,16 +110,16 @@
                         <input type="radio" name="slide" id="slide4">
                     
                         <div class="slide s1">
-                            <img src="assets/img/ecoparque.jpeg">
+                            <img src="assets/img/jardimbrisa.jpeg">
+                        </div>
+                        <div class="slide ">
+                            <img src="assets/img/parque2.jpg">
                         </div>
                         <div class="slide">
-                            <img src="assets/img/ecoparque.png">
+                            <img src="assets/img/parque3.jpg">
                         </div>
                         <div class="slide">
-                            <img src="assets/img/ecoparque.png">
-                        </div>
-                        <div class="slide">
-                            <img src="assets/img/ecoparque.png">
+                            <img src="assets/img/parque4.jpg">
                         </div>
                     </div>
                 </div>
@@ -143,30 +142,30 @@
                </div>
                 <div class="content">
                     <div class="slides">
-                        <input type="radio" name="slide" id="slide1">
-                        <input type="radio" name="slide" id="slide2">
-                        <input type="radio" name="slide" id="slide3">
-                        <input type="radio" name="slide" id="slide4">
+                        <input type="radio" name="slide" id="slide5">
+                        <input type="radio" name="slide" id="slide6">
+                        <input type="radio" name="slide" id="slide7">
+                        <input type="radio" name="slide" id="slide8">
                     
                         <div class="slide s1">
-                            <img src="assets/img/bosqueclaro.png">
+                            <img src="assets/img/parque3.jpg">
+                        </div>
+                        <div class="slide ">
+                            <img src="assets/img/parque6.jpg">
                         </div>
                         <div class="slide">
-                            <img src="assets/img/bosqueclaro.png">
+                            <img src="assets/img/parque7.jpg">
                         </div>
                         <div class="slide">
-                            <img src="assets/img/bosqueclaro.png">
-                        </div>
-                        <div class="slide">
-                            <img src="assets/img/bosqueclaro.png">
+                            <img src="assets/img/parque4.jpg">
                         </div>
                     </div>
                 </div>
                 <div class="navigation">
-                    <label class="bar" for="slide1"></label>
-                    <label class="bar" for="slide2"></label>
-                    <label class="bar" for="slide3"></label>
-                    <label class="bar" for="slide4"></label>
+                    <label class="bar" for="slide5"></label>
+                    <label class="bar" for="slide6"></label>
+                    <label class="bar" for="slide7"></label>
+                    <label class="bar" for="slide8"></label>
                 </div>
            </div>
        </div>
@@ -181,30 +180,30 @@
                </div>
                 <div class="content">
                     <div class="slides">
-                        <input type="radio" name="slide" id="slide1">
-                        <input type="radio" name="slide" id="slide2">
-                        <input type="radio" name="slide" id="slide3">
-                        <input type="radio" name="slide" id="slide4">
+                        <input type="radio" name="slide" id="slide9">
+                        <input type="radio" name="slide" id="slide10">
+                        <input type="radio" name="slide" id="slide11">
+                        <input type="radio" name="slide" id="slide12">
                     
                         <div class="slide s1">
-                            <img src="assets/img/verdesol.png">
+                            <img src="assets/img/parque6.jpg">
+                        </div>
+                        <div class="slide ">
+                            <img src="assets/img/parque2.jpg">
                         </div>
                         <div class="slide">
-                            <img src="assets/img/verdesol.png">
+                            <img src="assets/img/parque3.jpg">
                         </div>
                         <div class="slide">
-                            <img src="assets/img/verdesol.png">
-                        </div>
-                        <div class="slide">
-                            <img src="assets/img/verdesol.png">
+                            <img src="assets/img/parque4.jpg">
                         </div>
                     </div>
                 </div>
                 <div class="navigation">
-                    <label class="bar" for="slide1"></label>
-                    <label class="bar" for="slide2"></label>
-                    <label class="bar" for="slide3"></label>
-                    <label class="bar" for="slide4"></label>
+                    <label class="bar" for="slide9"></label>
+                    <label class="bar" for="slide10"></label>
+                    <label class="bar" for="slide11"></label>
+                    <label class="bar" for="slide12"></label>
                 </div>
            </div>
        </div>
@@ -219,30 +218,30 @@
                </div>
                 <div class="content">
                     <div class="slides">
-                        <input type="radio" name="slide" id="slide1">
-                        <input type="radio" name="slide" id="slide2">
-                        <input type="radio" name="slide" id="slide3">
-                        <input type="radio" name="slide" id="slide4">
+                        <input type="radio" name="slide" id="slide13">
+                        <input type="radio" name="slide" id="slide14">
+                        <input type="radio" name="slide" id="slide15">
+                        <input type="radio" name="slide" id="slide16">
                     
                         <div class="slide s1">
-                            <img src="assets/img/jardimbrisa.png">
+                            <img src="assets/img/parque7.jpg">
+                        </div>
+                        <div class="slide ">
+                            <img src="assets/img/parque2.jpg">
                         </div>
                         <div class="slide">
-                            <img src="assets/img/jardimbrisa.png">
+                            <img src="assets/img/parque3.jpg">
                         </div>
                         <div class="slide">
-                            <img src="assets/img/jardimbrisa.png">
-                        </div>
-                        <div class="slide">
-                            <img src="assets/img/jardimbrisa.png">
+                            <img src="assets/img/parque4.jpg">
                         </div>
                     </div>
                 </div>
                 <div class="navigation">
-                    <label class="bar" for="slide1"></label>
-                    <label class="bar" for="slide2"></label>
-                    <label class="bar" for="slide3"></label>
-                    <label class="bar" for="slide4"></label>
+                    <label class="bar" for="slide13"></label>
+                    <label class="bar" for="slide14"></label>
+                    <label class="bar" for="slide15"></label>
+                    <label class="bar" for="slide16"></label>
                 </div>
            </div>
        </div>
@@ -257,30 +256,30 @@
                </div>
                 <div class="content">
                     <div class="slides">
-                        <input type="radio" name="slide" id="slide1">
-                        <input type="radio" name="slide" id="slide2">
-                        <input type="radio" name="slide" id="slide3">
-                        <input type="radio" name="slide" id="slide4">
+                        <input type="radio" name="slide" id="slide17">
+                        <input type="radio" name="slide" id="slide18">
+                        <input type="radio" name="slide" id="slide19">
+                        <input type="radio" name="slide" id="slide20">
                     
                         <div class="slide s1">
-                            <img src="assets/img/parqueluar.png">
+                            <img src="assets/img/jardimbrisa.jpeg">
+                        </div>
+                        <div class="slide ">
+                            <img src="assets/img/parque2.jpg">
                         </div>
                         <div class="slide">
-                            <img src="assets/img/parqueluar.png">
+                            <img src="assets/img/parque3.jpg">
                         </div>
                         <div class="slide">
-                            <img src="assets/img/parqueluar.png">
-                        </div>
-                        <div class="slide">
-                            <img src="assets/img/parqueluar.png">
+                            <img src="assets/img/parque4.jpg">
                         </div>
                     </div>
                 </div>
                 <div class="navigation">
-                    <label class="bar" for="slide1"></label>
-                    <label class="bar" for="slide2"></label>
-                    <label class="bar" for="slide3"></label>
-                    <label class="bar" for="slide4"></label>
+                    <label class="bar" for="slide17"></label>
+                    <label class="bar" for="slide18"></label>
+                    <label class="bar" for="slide19"></label>
+                    <label class="bar" for="slide20"></label>
                 </div>
            </div>
        </div>
@@ -295,30 +294,30 @@
                </div>
                 <div class="content">
                     <div class="slides">
-                        <input type="radio" name="slide" id="slide1">
-                        <input type="radio" name="slide" id="slide2">
-                        <input type="radio" name="slide" id="slide3">
-                        <input type="radio" name="slide" id="slide4">
+                        <input type="radio" name="slide" id="slide21">
+                        <input type="radio" name="slide" id="slide22">
+                        <input type="radio" name="slide" id="slide23">
+                        <input type="radio" name="slide" id="slide24">
                     
                         <div class="slide s1">
-                            <img src="assets/img/parqueaurora.jpeg">
+                            <img src="assets/img/parque1.jpg">
+                        </div>
+                        <div class="slide ">
+                            <img src="assets/img/parque2.jpg">
                         </div>
                         <div class="slide">
-                            <img src="assets/img/parqueaurora.jpeg">
+                            <img src="assets/img/parque3.jpg">
                         </div>
                         <div class="slide">
-                            <img src="assets/img/parqueaurora.jpeg">
-                        </div>
-                        <div class="slide">
-                            <img src="assets/img/parqueaurora.jpeg">
+                            <img src="assets/img/parque4.jpg">
                         </div>
                     </div>
                 </div>
                 <div class="navigation">
-                    <label class="bar" for="slide1"></label>
-                    <label class="bar" for="slide2"></label>
-                    <label class="bar" for="slide3"></label>
-                    <label class="bar" for="slide4"></label>
+                    <label class="bar" for="slide21"></label>
+                    <label class="bar" for="slide22"></label>
+                    <label class="bar" for="slide23"></label>
+                    <label class="bar" for="slide24"></label>
                 </div>
            </div>
        </div>

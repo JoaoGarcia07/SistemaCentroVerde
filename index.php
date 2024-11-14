@@ -25,12 +25,17 @@ include "includes/navbar.php";
     </div>
 </section>
 
-<?php
-include "includes/sobre.php";
-?>
 
 <?php
 include "includes/parques.php";
+?>
+
+<?php
+include "includes/empresas.php";
+?>
+
+<?php
+include "includes/sobre.php";
 ?>
 
 <?php

@@ -1,6 +1,6 @@
 <footer class="container-footer">
     <div class="footer-logo">
-        <img src="assets/img/logoCentroVerdeBranco.png">
+        <img src="assets/img/LogoFradaMenor.jpg">
     </div>
     <hr>
     <div class="footer-content">
@@ -29,7 +29,7 @@
     </div>
     <hr>
     <div class="footer-direitos">
-            <h1>@2024 Centro Verde - Todos os direitos reservados</h1>
+            <h1>@2024 Frada - Todos os direitos reservados</h1>
     </div>
 </footer>
 <script src="assets/js/script.js"></script>

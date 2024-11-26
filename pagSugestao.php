@@ -8,7 +8,7 @@ include "includes/navbar.php";
 ?>
 
 <div class="title-sugestao">
-    <h1>SUGESTÃO</h1>
+    <h1>Doar</h1>
 </div>
 <?php
 include "includes/sugestao.php";

@@ -85,9 +85,9 @@
     height: 100%;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     img{
-        width: 800px;
+        width: 700px;
         object-fit: cover
     }
 }

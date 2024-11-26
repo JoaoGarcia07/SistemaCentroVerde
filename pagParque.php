@@ -8,7 +8,7 @@ include "includes/navbar.php";
 ?>
 
 <div class="title-parques">
-    <h1>PARQUES</h1>
+    <h1>Adoção</h1>
 </div>
 
 <?php
